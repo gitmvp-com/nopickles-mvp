@@ -1,0 +1,1 @@
+"""NoPickles MVP - AI-powered conversational order-taking system"""
